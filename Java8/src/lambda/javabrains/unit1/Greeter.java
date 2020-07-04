@@ -13,7 +13,7 @@ public class Greeter {
 	public static void main(String[] args) {
 		Greeter greeter = new Greeter();
 		//greeter.greet();
-		/* Passing behaviour before Java8 */
+		/* Passing behaviour before Java8  */
 		Greeting obj = new HelloWorldGreeting();
 		greeter.greet(obj);
 		
