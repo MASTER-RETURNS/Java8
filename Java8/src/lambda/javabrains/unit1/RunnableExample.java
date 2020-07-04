@@ -7,7 +7,7 @@ public class RunnableExample {
 
 			@Override
 			public void run() {
-				System.out.println("Printed  inside Runnable");
+				System.out.println("Printed inside Runnable");
 			}
 			
 		});
